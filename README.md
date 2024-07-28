@@ -8,7 +8,6 @@ Password Manager is a secure, easy-to-use application built with Swift and Swift
 ## Features
 * Secure Storage: Encrypts passwords and stores them securely.
 * User Authentication: Ensures only authenticated users can access the app.
-* Password Generator: Generates strong, random passwords.
 
 
 ## Requirements
